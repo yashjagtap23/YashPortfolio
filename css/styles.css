@@ -8128,6 +8128,11 @@ textarea.form-control-lg {
   color:rgba(255, 255, 255, 0.6) /* Text color */
 }
 
+.para2 {
+  text-align: center; /* Center-align the text */
+  margin: 0 auto; /* Auto margins for centering */
+  max-width: 600px;
+}
 .text-white-50 {
   --bs-text-opacity: 1;
   color: rgba(255, 255, 255, 0.7) !important;
