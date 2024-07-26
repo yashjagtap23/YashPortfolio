@@ -1,2 +1,9 @@
-# Yash's Portfolio
+# Overview
 
+---
+
+## Tech Stack
+
+Languages: `JavaScript` `HTML` `CSS`
+
+Frameworks: `Bootstrap`
